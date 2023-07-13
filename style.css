@@ -1,0 +1,184 @@
+.mySkills{
+    /* background-color: wheat; */
+    width: 100%;
+}
+.HtmlPer{
+    color: white;
+    background-color: grey;
+    width: 65%;
+    margin-left: -7px;
+border-radius: 20px;
+align-items: center;
+justify-content: center;
+
+}
+
+
+.html{
+    background-color: white;
+    margin: 20px;
+    width: 100%;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.cssPer{
+    color: white;
+    background-color: greenyellow;
+    width: 60%;
+    margin-left: -7px;
+border-radius: 20px;
+align-items: center;
+justify-content: center;
+
+}
+.css{
+    background-color: white;
+    margin: 20px;
+    width: 100%;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.javaPer{
+    color: white;
+    background-color: blue;
+    width: 55%;
+    margin-left: -7px;
+border-radius: 20px;
+align-items: center;
+justify-content: center;
+
+}
+
+
+.javaScript{
+    background-color: white;
+    margin: 20px;
+    width: 100%;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.Bootsper{
+    color: white;
+    background-color: palevioletred;
+    width: 63%;
+    margin-left: -7px;
+border-radius: 20px;
+align-items: center;
+justify-content: center;
+
+}
+
+
+.Bootstrap{
+    background-color: white;
+    margin: 20px;
+    width: 100%;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.tailper{
+    color: white;
+    background-color: aqua;
+    width: 68%;
+    margin-left: -7px;
+border-radius: 20px;
+align-items: center;
+justify-content: center;
+
+}
+
+
+.tailwind{
+    background-color: white;
+    margin: 20px;
+    width: 100%;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.nodeper{
+    color: white;
+    background-color: red;
+    width: 53%;
+    margin-left: -7px;
+border-radius: 20px;
+align-items: center;
+justify-content: center;
+
+}
+
+
+.nodejs{
+    background-color: white;
+    margin: 20px;
+    width: 100%;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.expressper{
+    color: white;
+    background-color: orange;
+    width: 52%;
+    margin-left: -7px;
+border-radius: 20px;
+align-items: center;
+justify-content: center;
+
+}
+
+
+.express{
+    background-color: white;
+    margin: 20px;
+    width: 100%;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.reactper{
+    color: white;
+    background-color: rosybrown;
+    width: 55%;
+    margin-left: -7px;
+border-radius: 20px;
+align-items: center;
+justify-content: center;
+
+}
+
+
+.react{
+    background-color: white;
+    margin: 20px;
+    width: 100%;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
